@@ -1,7 +1,7 @@
 # wx-miniprogram-learning
 记录下小程序的知识点<br>
 
-1.res =>可以理解为function(res)<br>
-res =>里可以直接使用this.setData()  lasjdkfalskdddddddddkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+1.res =>可以理解为function(res)
+res =>里可以直接使this.setData()lasjdkfalskdddddddddkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
 
 2、
